@@ -3,4 +3,4 @@ A web page with visually appealing design, made out mostly with Bootstrap classe
 
 https://piotr0893.github.io/Music-Page-Bootstrap/
 
-Page may not show all the icons. If you want to see them, you have to add Your Kit from Font Awsome
+Page may not show all the icons (although it should). If so,all you have to do is to add Your Kit from Font Awsome
